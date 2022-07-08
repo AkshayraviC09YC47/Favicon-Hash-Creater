@@ -1,5 +1,5 @@
 # Favicon-Hash-Creater
-This a simple tool to find facicon hash
+This a simple tool to find favicon hash
 
 # Installation:
 `pip3 install -r requirements.txt`
